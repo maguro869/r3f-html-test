@@ -1,0 +1,28 @@
+{
+  "name": "wither-front",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/drei": "^7.22.9",
+    "@react-three/fiber": "^7.0.19",
+    "bulma": "^0.9.3",
+    "dat.gui": "^0.7.7",
+    "next": "^12.0.3",
+    "next-transpile-modules": "^9.0.0",
+    "node-sass": "^6.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "stats-js": "^1.0.1",
+    "three": "^0.134.0",
+    "three-fatline": "^0.5.2"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "12.0.4"
+  }
+}
